@@ -1,4 +1,4 @@
-### ![Trabalhando para deixar o perfil mais bonito](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itbod365.com%2Fpost%2Fprogressbar&psig=AOvVaw1Yt97YGN-HthcVYLIbA763&ust=1632792200049000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOD2iJ7_nfMCFQAAAAAdAAAAABAD)
+### ![Trabalhando para deixar o perfil mais bonito](https://miro.medium.com/max/1400/1*pVxCmIW9kV28plnkC9mpMA.jpeg)
 
 <!--
 **JeyZBreno/JeyZBreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
