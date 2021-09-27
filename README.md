@@ -1,4 +1,4 @@
-### ![Trabalhando para deixar o perfil mais bonito](https://miro.medium.com/max/1400/1*pVxCmIW9kV28plnkC9mpMA.jpeg)
+![Trabalhando para deixar o perfil mais bonito](https://miro.medium.com/max/1400/1*pVxCmIW9kV28plnkC9mpMA.jpeg)
 
 <!--
 **JeyZBreno/JeyZBreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
