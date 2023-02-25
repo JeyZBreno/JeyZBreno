@@ -6,10 +6,11 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyZBreno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Breno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Breno-Rick" height="100" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/339114410398187531/901493830279381052/rick-and-morty-run.gif">
+   <img align="center" alt="Breno-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+   <img align="center" alt="Breno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="right" alt="Breno-Rick" height="100" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/339114410398187531/901493830279381052/rick-and-morty-run.gif">
 </div>
   
   ##
